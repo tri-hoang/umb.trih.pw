@@ -1,0 +1,25 @@
+{
+  "name": "scheduler-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tri Hoang",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.2",
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "dynasty": "^0.2.6",
+    "express": "^4.14.0",
+    "express-brute": "^1.0.1",
+    "express-brute-redis": "0.0.1",
+    "moment": "^2.16.0",
+    "randomstring": "^1.1.5",
+    "redis": "^2.6.3",
+    "sha1": "^1.1.1",
+    "sync": "^0.2.5"
+  }
+}
